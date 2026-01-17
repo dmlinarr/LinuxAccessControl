@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/Soldatstar/ip6-access-control/branch/main/graph/badge.svg)](https://codecov.io/gh/Soldatstar/ip6-access-control)
 [![GitHub Actions test](https://github.com/soldatstar/ip6-access-control/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Soldatstar/ip6-access-control/actions)
 [![GitHub Actions build](https://github.com/soldatstar/ip6-access-control/actions/workflows/build-upload.yml/badge.svg)](https://github.com/Soldatstar/ip6-access-control/actions)
-# 25FS_IMVS14: System zur feingranularen Ressourcen-Zugriffskontrolle unter Linux  
+# System zur feingranularen Ressourcen-Zugriffskontrolle unter Linux  
 ## IP6 Bachelorarbeit  
 
 ### Problematik
